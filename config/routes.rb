@@ -12,7 +12,6 @@ Rails.application.routes.draw do
 
   root "books#list"
 end
-
 # Rails.application.routes.draw do
 #   resources :books do
 #     resources :subjects
